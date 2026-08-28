@@ -1,0 +1,10 @@
+{
+  "name": "guarini-archivi",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "cd backend && node server.js"
+  },
+  "dependencies": {}
+}
